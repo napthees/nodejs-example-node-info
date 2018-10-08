@@ -7,10 +7,10 @@ Un exemple de base d'utilisation de node-info.
 En ligne de commande :
 
 ```
-� Pour installer les packages
+- Pour installer les packages
 ```
     > npm install
 ```
-� Pour démarrer l’application
+- Pour démarrer l’application qui sera disponible à partir de votre navigateur sur http://127.0.0.1:8080/node-info
 ```
     > node index.js
