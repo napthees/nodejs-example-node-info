@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-example-node-info",
+  "version": "0.1.0",
+  "description": "Un exemple de base d'utilisation de node-info.",
+  "main": "index.js",
+  "homepage": "http://127.0.0.1:8080/node-info",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "example",
+    "node-info",
+    "nodejs"
+  ],
+  "author": "contact@napthees.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-info": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+      "type": "git",
+      "url": "git://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info.git"
+  },
+  "homepage": "https://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info#readme"
+}
+
