@@ -1,5 +1,4 @@
-# Description de l'application
-# "Exemple de base avec node-info !"
+# Description de l'application "nodejs-example-node-info"
 
 Un exemple de base d'utilisation de node-info.
 
