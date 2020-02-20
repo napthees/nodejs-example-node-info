@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Un exemple de base d'utilisation de node-info.",
   "main": "index.js",
-  "homepage": "http://127.0.0.1:8080/node-info",
+  "homepage": "https://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info#readme",
   "scripts": {
     "start": "node index.js"
   },
@@ -20,9 +20,7 @@
   },
   "devDependencies": {},
   "repository": {
-      "type": "git",
-      "url": "git://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info.git"
-  },
-  "homepage": "https://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info#readme"
+    "type": "git",
+    "url": "git://napthees@bitbucket.org/naptheescom/exemple-de-base-avec-node-info.git"
+  }
 }
-
